@@ -1,0 +1,136 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-abel: Abel;
+  --huevost-normal-text: Syne;
+  --font-abeezee: ABeeZee;
+  --huevost-h2: Alatsi;
+  --huevost-h1: "Abhaya Libre";
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-3xs: 10px;
+  --font-size-5xl: 24px;
+  --font-size-19xl: 38px;
+  --font-size-lg: 18px;
+  --huevost-normal-text-size: 20px;
+  --huevost-h2-size: 30px;
+  --huevost-headline-text-size: 14px;
+  --huevost-h1-size: 44px;
+  --huevost-cta-txt-size: 16px;
+  --font-size-7xl: 26px;
+  --font-size-3xl: 22px;
+  --font-size-15xl: 34px;
+  --font-size-8xl: 27px;
+  --font-size-9xl: 28px;
+  --font-size-13xl: 32px;
+  --font-size-2xl: 21px;
+  --font-size-5xs: 8px;
+
+  /* Colors */
+  --huevost-background: #080410;
+  --color-gray-100: rgba(255, 255, 255, 0.05);
+  --huevost-grey: #c2bebe;
+  --color-silver-200: rgba(194, 190, 190, 0.8);
+  --color-whitesmoke-100: #f9f8f8;
+  --huevost-orange-white: #f7f2f0;
+  --color-blue: #0000ee;
+  --color-darkgray: #9b9b9b;
+  --color-seagreen-100: #23906f;
+  --color-dimgray: #5d513e;
+  --huevost-orange: #ff5b28;
+  --color-orangered-200: #e6420f;
+  --color-orangered-300: rgba(230, 66, 15, 0.09);
+  --color-orangered-100: rgba(255, 91, 40, 0.1);
+  --color-orangered-400: rgba(255, 91, 40, 0.02);
+  --color-white: #fff;
+
+  /* Gaps */
+  --gap-51xl: 70px;
+  --gap-62xl: 81px;
+  --gap-11xl: 30px;
+  --gap-9xl: 28px;
+  --gap-3xs: 10px;
+  --gap-xs: 12px;
+  --gap-8xs: 5px;
+  --gap-4xs: 9px;
+  --gap-31xl: 50px;
+  --gap-xl: 20px;
+  --gap-5xl: 24px;
+  --gap-7xl: 26px;
+  --gap-lg: 18px;
+  --gap-48xl: 67px;
+  --gap-199xl: 218px;
+  --gap-35xl: 54px;
+  --gap-90xl: 109px;
+  --gap-53xl: 72px;
+  --gap-124xl: 143px;
+  --gap-141xl: 160px;
+  --gap-21xl: 40px;
+  --gap-61xl: 80px;
+  --gap-4xl: 23px;
+  --gap-26xl: 45px;
+  --gap-41xl: 60px;
+  --gap-3xl: 22px;
+  --gap-23xl: 42px;
+  --gap-22xl: 41px;
+  --gap-65xl: 84px;
+  --gap-2xl: 21px;
+  --gap-67xl: 86px;
+  --gap-24xl: 43px;
+
+  /* Paddings */
+  --padding-14xl: 33px;
+  --padding-xl: 20px;
+  --padding-87xl: 106px;
+  --padding-12xl: 31px;
+  --padding-3xs: 10px;
+  --padding-11xl: 30px;
+  --padding-lg: 18px;
+  --padding-mini: 15px;
+  --padding-sm: 14px;
+  --padding-56xl: 75px;
+  --padding-132xl: 151px;
+  --padding-9xl: 28px;
+  --padding-53xl: 72px;
+  --padding-61xl: 80px;
+  --padding-35xl: 54px;
+  --padding-6xs-6: 6.6px;
+  --padding-8xl: 27px;
+  --padding-24xl: 43px;
+  --padding-81xl: 100px;
+  --padding-46xl: 65px;
+  --padding-2xl: 21px;
+  --padding-lgi-5: 19.5px;
+  --padding-xs: 12px;
+  --padding-smi: 13px;
+  --padding-5xs: 8px;
+  --padding-23xl: 42px;
+  --padding-28xl: 47px;
+  --padding-6xl: 25px;
+  --padding-70xl: 89px;
+  --padding-39xl: 58px;
+  --padding-lg-5: 18.5px;
+  --padding-mini-5: 14.5px;
+  --padding-2xs: 11px;
+  --padding-26xl: 45px;
+  --padding-8xs-6: 4.6px;
+  --padding-12xs: 1px;
+  --padding-115xl: 134px;
+
+  /* Border radiuses */
+  --br-4xs: 9px;
+  --br-22xl: 41px;
+  --br-lg: 18px;
+  --br-3xs: 10px;
+  --br-8xs-5: 4.5px;
+  --br-31xl: 50px;
+  --br-6xs: 7px;
+  --br-217xl: 236px;
+  --br-xl: 20px;
+  --br-base: 16px;
+}

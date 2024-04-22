@@ -1,0 +1,40 @@
+<svg width="547" height="643" viewBox="0 0 547 643" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.6" filter="url(#filter0_f_705_282)">
+<path d="M423.062 213.708C394.968 244.145 347.51 246.035 317.062 217.93C286.614 189.825 284.706 142.368 312.8 111.931C340.895 81.4944 412.421 53.5292 442.869 81.6341C473.317 109.739 451.157 183.271 423.062 213.708Z" fill="url(#paint0_radial_705_282)" fill-opacity="0.6"/>
+</g>
+<g opacity="0.6" filter="url(#filter1_f_705_282)">
+<path d="M213.32 329.555C224.867 359.234 210.159 392.658 180.469 404.21C150.778 415.762 117.348 401.066 105.801 371.387C94.2536 341.707 99.0689 282.857 128.759 271.305C158.45 259.753 201.772 299.875 213.32 329.555Z" fill="url(#paint1_radial_705_282)" fill-opacity="0.5"/>
+</g>
+<g opacity="0.6" filter="url(#filter2_f_705_282)">
+<path d="M464.767 510.828C457.808 545.559 424.002 568.071 389.258 561.111C354.514 554.15 331.99 520.352 338.948 485.621C345.906 450.89 385.673 398.624 420.417 405.584C455.161 412.545 471.725 476.097 464.767 510.828Z" fill="url(#paint2_radial_705_282)" fill-opacity="0.7"/>
+</g>
+<defs>
+<filter id="filter0_f_705_282" x="222.917" y="0.0219727" width="304.6" height="307.81" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="35" result="effect1_foregroundBlur_705_282"/>
+</filter>
+<filter id="filter1_f_705_282" x="0.0195312" y="169.271" width="317.238" height="338.881" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="50" result="effect1_foregroundBlur_705_282"/>
+</filter>
+<filter id="filter2_f_705_282" x="257.686" y="324.954" width="288.642" height="317.419" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="40" result="effect1_foregroundBlur_705_282"/>
+</filter>
+<radialGradient id="paint0_radial_705_282" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(380.201 149.527) rotate(148.535) scale(137.554 111.279)">
+<stop stop-color="#FF5A26"/>
+<stop offset="1" stop-color="#FF5A26" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_radial_705_282" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154.517 337.509) rotate(84.5666) scale(105.759 85.5577)">
+<stop stop-color="#FF5A26"/>
+<stop offset="1" stop-color="#FF5A26" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint2_radial_705_282" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(404.896 483.056) rotate(117.155) scale(117.629 95.1607)">
+<stop stop-color="#FF5A26"/>
+<stop offset="1" stop-color="#FF5A26" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
